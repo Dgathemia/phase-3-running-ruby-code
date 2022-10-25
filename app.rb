@@ -1,3 +1,3 @@
-puts "hello world!"
-print "pass this test, please."
-p [1,2,3]
+puts "Hello World!"
+print "Pass this test, please."
+pp [1, 2, 3]

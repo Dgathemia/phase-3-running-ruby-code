@@ -6,7 +6,7 @@
 - Log output to the terminal
 - Run Ruby code from IRB
 - Run RSpec tests in Ruby
-
+phase-3-running-ruby-code
 ## Introduction
 
 In this lesson, you'll get some practice running Ruby code, and see a few
